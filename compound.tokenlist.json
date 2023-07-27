@@ -754,6 +754,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0x8665594a899E177C1E15062FFA0B84826741622d",
+      "name": "FORK.UNISWAP",
+      "symbol": "FORK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
